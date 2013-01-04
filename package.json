@@ -1,0 +1,14 @@
+{
+  "name": "Node Overview",
+  "description": "A simple REST API using node, coffee, redis and haml",
+  "author": "Damien Houlle",
+  "homepage": "",
+  "version": "0.0.1",
+  "dependencies": {
+    "coffee-script": ">= 1.4.0",
+    "redis": ">= 0.8.2",
+    "express": ">= 3.0.5",
+    "underscore": ">=1.4.3"
+  },
+  "private": true
+}
