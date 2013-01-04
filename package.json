@@ -1,6 +1,6 @@
 {
   "name": "Node Overview",
-  "description": "A simple REST API using node, coffee, redis and haml",
+  "description": "A simple REST API using npm with express, coffee and redis",
   "author": "Damien Houlle",
   "homepage": "",
   "version": "0.0.1",
